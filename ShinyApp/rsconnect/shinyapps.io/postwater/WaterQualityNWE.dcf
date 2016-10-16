@@ -1,0 +1,9 @@
+name: WaterQualityNWE
+account: postwater
+server: shinyapps.io
+appId: 131991
+bundleId: 587681
+url: https://postwater.shinyapps.io/WaterQualityNWE/
+when: 1476622336.68706
+asMultiple: FALSE
+asStatic: FALSE
